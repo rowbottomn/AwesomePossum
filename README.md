@@ -1,2 +1,2 @@
 # AwesomePossum
-Unity project the simulated particles in fields.
+Unity project demonstrating simulated particles in E-M fields.
